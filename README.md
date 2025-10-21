@@ -110,7 +110,7 @@ It does not include any proprietary, customer, or confidential information.
 
 ---
 
-> 🧾 **Note:** The notebook displayed here was executed on the full dataset (~95 K records, ~45 MB)  
+> 🧾 **Note:** The notebook displayed here was executed on the full dataset (~200k records, ~45 MB)  
 > to show complete results and charts.  
-> The `/data/sample_case_data.csv` file is a smaller synthetic subset (≈1 K records)  
+> The `/data/sample_case_data.csv` file is a smaller synthetic subset (≈200 records)  
 > included for reproducibility.
